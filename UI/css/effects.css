@@ -1,0 +1,19 @@
+ .stamp_collect {
+   width: auto;
+   height: auto;
+   
+   border: 3px dashed #EAE0C7; }
+   
+ .stamp_postcard {
+   width: auto;
+   height: auto;
+   
+   border: 3px dashed #3A8216; }
+ 
+   
+.stamp p {
+   color: #fff;
+   margin: 10px 10px 0 0;
+   font: bold 60px Georgia, "Times New Roman", Times, serif;
+   text-align: right; }
+   
